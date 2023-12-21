@@ -3,10 +3,11 @@ languageCode = 'en-us'
 title = '虚拟养老院“医养融合”模式——以兰州市城关区虚拟养老院为例'
 theme = 'ananke'
 publishDir = "docs"
+canonifyurls = true
 [markup]
 defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
-canonifyurls = true
+
 
