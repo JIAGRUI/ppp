@@ -8,4 +8,5 @@ defaultMarkdownHandler = "goldmark"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+canonifyurls = true
 
