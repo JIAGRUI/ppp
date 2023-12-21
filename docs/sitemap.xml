@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://jiagrui.github.io/ppp/categories/</loc>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://jiagrui.github.io/ppp/posts/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://jiagrui.github.io/ppp/tags/</loc>
   </url><url>
-    <loc>https://example.org/posts/s/</loc>
+    <loc>https://jiagrui.github.io/ppp/posts/s/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://jiagrui.github.io/ppp/</loc>
   </url><url>
-    <loc>https://example.org/posts/first/</loc>
+    <loc>https://jiagrui.github.io/ppp/posts/first/</loc>
   </url><url>
-    <loc>https://example.org/posts/t/</loc>
+    <loc>https://jiagrui.github.io/ppp/posts/t/</loc>
   </url>
 </urlset>
