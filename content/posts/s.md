@@ -32,4 +32,6 @@ title = '医养融合模式发展过程中结合现状缺陷'
 &emsp;&emsp;综上所述，兰州市虚拟养老院的医养融合模式整体的服  
 务体系仍存在部分弊端，未完善的整体运营体系对于医养融  
 合的落实并未到位。
-![](/images/p6.png)
+![](/images/p6.png)  
+[虚拟养老院“医养融合”模式——以兰州市城关区虚拟养老院为例](https://jiagrui.github.io/ppp/posts/first/)  
+[路径与前景——兰州虚拟养老院的未来发展建议](https://jiagrui.github.io/ppp/posts/t/)  

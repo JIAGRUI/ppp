@@ -24,5 +24,10 @@ title = '虚拟养老院“医养融合”模式——以兰州市城关区虚�
 导意见》公布。国家政策对医养结合养老模式的支持，可预测医  
 养结合模式未来将成为中国养老服务行业的主流。随着传统家庭  
 养老以及“居家养老”模式日益突出的情况下，医养融合的需求不  
-断加大。
-<iframe src="https://b23.tv/Rjr1c9La"scrolling="no” > </iframe>
+断加大。  
+[医养融合模式发展过程中结合现状缺陷](https://jiagrui.github.io/ppp/posts/s/)  
+[路径与前景——兰州虚拟养老院的未来发展建议](https://jiagrui.github.io/ppp/posts/t/) 
+<iframe src="https://www.bilibili.com/video/BV1nL4y1K7S7/?spm_id_from=333.337.search-card.all.click" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>  
+
+
+ 
